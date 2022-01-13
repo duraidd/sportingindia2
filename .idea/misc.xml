@@ -5,10 +5,19 @@
       <map>
         <entry key="app/src/main/res/drawable/circle.xml" value="0.3609375" />
         <entry key="app/src/main/res/drawable/crl.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_book.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_cert.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_course.xml" value="0.3609375" />
         <entry key="app/src/main/res/drawable/ic_double_arrow.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_face.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_location.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_teachers.xml" value="0.3609375" />
         <entry key="app/src/main/res/drawable/shape.xml" value="0.2" />
         <entry key="app/src/main/res/layout/about.xml" value="0.34479166666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2735537190082645" />
+        <entry key="app/src/main/res/layout/content.xml" value="0.34479166666666666" />
+        <entry key="app/src/main/res/layout/content1.xml" value="0.34479166666666666" />
         <entry key="app/src/main/res/layout/course_categaries.xml" value="0.34479166666666666" />
         <entry key="app/src/main/res/layout/general_courses.xml" value="0.34479166666666666" />
         <entry key="app/src/main/res/layout/shape.xml" value="0.34479166666666666" />
